@@ -7,25 +7,15 @@ layout: post
 
 注册域名网站
 
-You can introduce this jekyll theme into your own site by either
+## Experiments
+- [Activation Nodeplus Lab](http://www.acnplwgl.com/)
+- [Chrome Experiments](https://www.chromeexperiments.com/)
+- [codedoodl.es](http://codedoodl.es/)
+- [Codepen 2014](http://codepen.io/2014/popular/pens/)
+- [Codepen 2015](http://codepen.io/2015/popular/pens/)
+- [Codepen 2016](http://codepen.io/2016/popular/pens/)
 
-- [Fork][5] this repository and add your markdown posts to the `_posts` folder, then
-  push to your own Github repository.
-- Use as a remote theme in your [`_config.yml`][6](just like what we do for this
-  site itself),
-
-```yaml
-# Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-
-remote_theme:     sighingnow/jekyll-gitbook
-```
-
-> ##### TIP
->
-> No need to push generated HTML bundle.
-{: .block-tip }
+## test
 
 [1]: https://pages.github.com
 [2]: https://github.com/sighingnow/jekyll-gitbook/fork
@@ -33,3 +23,10 @@ remote_theme:     sighingnow/jekyll-gitbook
 [4]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 [5]: https://github.com/sighingnow/jekyll-gitbook/fork
 [6]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
+
+> ##### TIP
+>
+> No need to push generated HTML bundle.
+{: .block-tip }
+
+
