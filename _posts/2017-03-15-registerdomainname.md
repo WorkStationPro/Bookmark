@@ -14,9 +14,6 @@ layout: post
 - [Codepen 2014](http://codepen.io/2014/popular/pens/)
 - [Codepen 2015](http://codepen.io/2015/popular/pens/)
 - [Codepen 2016](http://codepen.io/2016/popular/pens/)
-
-## test
-
 [1]: https://pages.github.com
 [2]: https://github.com/sighingnow/jekyll-gitbook/fork
 [3]: https://pages.github.com/themes
