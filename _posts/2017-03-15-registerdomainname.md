@@ -14,11 +14,17 @@ layout: post
 - [Codepen 2014](http://codepen.io/2014/popular/pens/)
 - [Codepen 2015](http://codepen.io/2015/popular/pens/)
 - [Codepen 2016](http://codepen.io/2016/popular/pens/)
+- 
 [1]: https://pages.github.com
+
 [2]: https://github.com/sighingnow/jekyll-gitbook/fork
+
 [3]: https://pages.github.com/themes
+
 [4]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+
 [5]: https://github.com/sighingnow/jekyll-gitbook/fork
+
 [6]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
 
 > ##### TIP
