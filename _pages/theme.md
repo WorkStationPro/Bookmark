@@ -6,4 +6,8 @@ category: Jekyll
 layout: post
 ---
 
-This is an draft page.
+> ##### TIP
+>
+> jekyll gitbook.
+{: .block-tip }
+
