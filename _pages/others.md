@@ -1,5 +1,5 @@
 ---
-title: About others
+title: others
 author: Tao He
 date: 2022-02-04
 category: Jekyll
