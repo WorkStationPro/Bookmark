@@ -1,7 +1,6 @@
 ---
 title: Tips, Warnings, and Dangers
-author: Tao He
-date: 2022-06-30
+date: 2020-03-15
 category: Jekyll
 layout: post
 ---
