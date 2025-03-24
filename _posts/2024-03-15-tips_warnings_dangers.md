@@ -1,7 +1,7 @@
 ---
 title: Tips, Warnings, and Dangers
-date: 2020-03-15
-category: Jekyll
+date: 2024-03-15
+category: themes tip
 layout: post
 ---
 
