@@ -1,8 +1,7 @@
 ---
-title: About others
-author: Tao He
+title: theme others
 date: 2022-02-04
-category: Jekyll
+category: theme
 layout: post
 ---
 
