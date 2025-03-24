@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jekyll Gitbook Theme
-permalink: /
+permalink: /home
 ---
 
 Make Jelly site have a GitBook look!
