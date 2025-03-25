@@ -7,9 +7,9 @@
   background-color: #e8f4f6;
   border-color: #7e888b;
 }
-/* #111111---#ffffff; */
+/* #111111---#e8f4f6; */
 .color-theme-1 .dropdown-menu .dropdown-caret .caret-inner {
-  border-bottom: 9px solid #ffffff;
+  border-bottom: 9px solid #dc143c;
 }
 .color-theme-1 .dropdown-menu .buttons {
   border-color: #7e888b;
