@@ -47,11 +47,12 @@
 }
 /* theme css ; */
    /* color: #f8efe8; //米黄色背景color: #515151; //深灰色文字} */
-   /* color: #e8f6f3; //淡蓝色背景color: #333; //黑色文字}  #f3eacb */
+   /* color: #e8f6f3; //淡蓝色背景color: #333; //黑色文字}  #f3eacb-#e8f6f3 */
    /* color: #fffbf0; //浅黄色背景color: #333; //黑色文字} */
    /* color: #f1f1f1; //浅灰色背景color: #222; //深色文字} */
+   /* #704214--#333 */
 .book.color-theme-1 .book-body {
-  color: #704214;
+  color: #333;
   background: #e8f6f3;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section {
@@ -121,17 +122,20 @@
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal .highlight {
   background-color: inherit;
 }
+/* #f5d06c---#8a2be2; */
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table th,
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table td {
-  border-color: #f5d06c;
+  border-color: #8a2be2;
 }
+/* #fdf6e3---#9946e6 ; */
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table tr {
   color: inherit;
-  background-color: #fdf6e3;
+  background-color: #9946e6;
   border-color: #444444;
 }
+/* #fbeecb--#b67bed*/
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table tr:nth-child(2n) {
-  background-color: #fbeecb;
+  background-color: #b67bed;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal {
   color: #bdcadb;
