@@ -273,17 +273,17 @@
 .book.color-theme-1 .book-summary ul.summary li.done > a {
   color: #8b0000;
 }
-/* #877f6a---#9946e6;*/
+/* #877f6a---#6446e6; links*/
 .book.color-theme-1 .book-summary ul.summary li a,
 .book.color-theme-1 .book-summary ul.summary li span {
-  color: #8b0000;
+  color: #6446e6;
   background: transparent;
   font-weight: normal;
 }
-/* #704214---#4e00d3; */
+/* #704214---#4e00d3;  link*/
 .book.color-theme-1 .book-summary ul.summary li.active > a,
 .book.color-theme-1 .book-summary ul.summary li a:hover {
-  color: #ff4500;
+  color: #4e00d3;
   background: transparent;
   font-weight: normal;
 }
