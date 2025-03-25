@@ -271,19 +271,19 @@
 }
 /* #877f6a---#9946e6; */
 .book.color-theme-1 .book-summary ul.summary li.done > a {
-  color: #9946e6;
+  color: #8b0000;
 }
 /* #877f6a---#9946e6;*/
 .book.color-theme-1 .book-summary ul.summary li a,
 .book.color-theme-1 .book-summary ul.summary li span {
-  color: #9946e6;
+  color: #8b0000;
   background: transparent;
   font-weight: normal;
 }
 /* #704214---#4e00d3; */
 .book.color-theme-1 .book-summary ul.summary li.active > a,
 .book.color-theme-1 .book-summary ul.summary li a:hover {
-  color: #4e00d3;
+  color: #ff4500;
   background: transparent;
   font-weight: normal;
 }
