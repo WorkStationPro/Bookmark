@@ -1,14 +1,15 @@
 /*
  * Theme 1 #afa790 -#0044cd
  * #73553 - #0088cd 
- * #111111
+ * #111111---#e8f4f6 memu
  */
 .color-theme-1 .dropdown-menu {
-  background-color: #ffffff;
+  background-color: #e8f4f6;
   border-color: #7e888b;
 }
+/* #111111---#ffffff; */
 .color-theme-1 .dropdown-menu .dropdown-caret .caret-inner {
-  border-bottom: 9px solid #111111;
+  border-bottom: 9px solid #ffffff;
 }
 .color-theme-1 .dropdown-menu .buttons {
   border-color: #7e888b;
