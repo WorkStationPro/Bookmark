@@ -4,6 +4,9 @@ title: Jekyll Gitbook Theme
 permalink: /home
 ---
 
+custom.css //header background  color
+assets/fontsettings/website.css  color-theme
+
 Make Jelly site have a GitBook look!
 
 ## Demo
