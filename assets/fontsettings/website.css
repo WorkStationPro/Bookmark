@@ -88,9 +88,9 @@
 .book.font-family-1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-   /* #704214--#4e00d3 */
+   /* #704214--#333 txt */
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal {
-  color: #4e00d3;
+  color: #333;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal a {
   color: inherit;
@@ -128,17 +128,17 @@
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal .highlight {
   background-color: inherit;
 }
-/* #f5d06c---#8a2be2; */
+/* #f5d06c---#444; */
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table th,
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table td {
-  border-color: #8a2be2;
+  border-color: #444;
 }
 /* #fdf6e3---#9946e6; */
 /* #444444---#a52a2a; */
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table tr {
   color: inherit;
   background-color: #9946e6;
-  border-color: #a52a2a;
+  border-color: #44444;
 }
 /* #fbeecb--#b67bed*/
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table tr:nth-child(2n) {
