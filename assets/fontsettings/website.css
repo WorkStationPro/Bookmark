@@ -44,12 +44,17 @@
   line-height: 30px;
   font-size: 1em;
 }
+/* theme css ; */
+   /* color: #f8efe8; //米黄色背景color: #515151; //深灰色文字} */
+   /* color: #e8f6f3; //淡蓝色背景color: #333; //黑色文字}  #f3eacb */
+   /* color: #fffbf0; //浅黄色背景color: #333; //黑色文字} */
+   /* color: #f1f1f1; //浅灰色背景color: #222; //深色文字} */
 .book.color-theme-1 .book-body {
   color: #704214;
-  background: #f3eacb;
+  background: #e8f6f3;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section {
-  background: #f3eacb;
+  background: #e8f6f3;
 }
 .book.color-theme-2 .book-body {
   color: #bdcadb;
