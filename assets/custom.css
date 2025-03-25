@@ -49,12 +49,17 @@
     }
 }
 
+    /* theme css ; */
+   /* color: #f8efe8; //米黄色背景color: #515151; //深灰色文字} */
+   /* color: #e8f6f3; //淡蓝色背景color: #333; //黑色文字} */
+   /* color: #fffbf0; //浅黄色背景color: #333; //黑色文字} */
+   /* color: #f1f1f1; //浅灰色背景color: #222; //深色文字} */
 .book .book-body .book-header {
     background: #ffffff;
 }
 
 .book.color-theme-1 .book-body .book-header {
-    background: #f3eacb;
+    background: #e8f6f3;
 }
 
 .book.color-theme-2 .book-body .book-header {
