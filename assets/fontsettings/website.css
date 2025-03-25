@@ -225,7 +225,7 @@
 .book.color-theme-1 .book-body .navigation {
   color: #0044cd;
 }
-/* #73553c---#0088cd ; */
+/* #73553c---#0088cd; */
 .book.color-theme-1 .book-body .navigation:hover {
   color: #0088cd;
 }
@@ -238,9 +238,10 @@
 /*
  * Theme 1
  */
-/* #afa790---#0044cd ; */
+/* #afa790---#0044cd; */
+/* #111111---#111111; */
 .book.color-theme-1 .book-summary {
-  color: #afa790;
+  color: #0044cd;
   background: #111111;
   border-right: 1px solid rgba(0, 0, 0, 0.07);
 }
@@ -251,30 +252,30 @@
 .book.color-theme-1 .book-summary .book-search input:focus {
   border: 1px solid transparent;
 }
-/* #7e888b---#9946e6 ; */
+/* #7e888b---#7e888b; */
 .book.color-theme-1 .book-summary ul.summary li.divider {
   background: #7e888b;
   box-shadow: none;
 }
-/* #33cc33---#9946e6 ; */
+/* #33cc33---#33cc33; */
 .book.color-theme-1 .book-summary ul.summary li i.fa-check {
   color: #33cc33;
 }
-/* #877f6a---#9946e6 ; */
+/* #877f6a---#9946e6; */
 .book.color-theme-1 .book-summary ul.summary li.done > a {
-  color: #877f6a;
+  color: #9946e6;
 }
-/* #877f6a---#9946e6 ; */
+/* #877f6a---#9946e6;*/
 .book.color-theme-1 .book-summary ul.summary li a,
 .book.color-theme-1 .book-summary ul.summary li span {
   color: #877f6a;
   background: transparent;
   font-weight: normal;
 }
-/* #704214---#9946e6 ; */
+/* #704214---#4e00d3; */
 .book.color-theme-1 .book-summary ul.summary li.active > a,
 .book.color-theme-1 .book-summary ul.summary li a:hover {
-  color: #704214;
+  color: #4e00d3;
   background: transparent;
   font-weight: normal;
 }
