@@ -241,11 +241,16 @@
 /*
  * Theme 1
  */
+/* theme css ; */
+   /* color: #f8efe8; //米黄色背景color: #515151; //深灰色文字} */
+   /* color: #e8f6f3; //淡蓝色背景color: #333; //黑色文字}  #f3eacb-#e8f6f3 */
+   /* color: #fffbf0; //浅黄色背景color: #333; //黑色文字} */
+   /* color: #f1f1f1; //浅灰色背景color: #222; //深色文字} */
 /* #afa790---#0044cd; */
-/* #111111---#111111; */
+/* #111111---#e8f4f6; 左*/
 .book.color-theme-1 .book-summary {
   color: #0044cd;
-  background: #a52a2a;
+  background: #e8f4f6;
   border-right: 1px solid rgba(0, 0, 0, 0.07);
 }
 .book.color-theme-1 .book-summary .book-search {
