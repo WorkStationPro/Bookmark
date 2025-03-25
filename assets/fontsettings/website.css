@@ -1,5 +1,6 @@
 /*
- * Theme 1
+ * Theme 1 #afa790 -#0044cd
+ * #73553 - #0088cd
  */
 .color-theme-1 .dropdown-menu {
   background-color: #111111;
@@ -12,10 +13,10 @@
   border-color: #7e888b;
 }
 .color-theme-1 .dropdown-menu .button {
-  color: #afa790;
+  color: #0044cd;
 }
 .color-theme-1 .dropdown-menu .button:hover {
-  color: #73553c;
+  color: #0088cd;
 }
 /*
  * Theme 2
